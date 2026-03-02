@@ -86,6 +86,6 @@ B.Tech CSE (AI & ML)
 - Power BI Service deployment
 
   output :
-  <img width="2003" height="1133" alt="Image" src="https://github.com/user-attachments/assets/df84b043-576a-4f2d-b00e-08b6ff87d556" />
+<img width="2003" height="1133" alt="Image" src="https://github.com/user-attachments/assets/df84b043-576a-4f2d-b00e-08b6ff87d556" />
 <img width="2010" height="1139" alt="Image" src="https://github.com/user-attachments/assets/b0ca7036-929b-444c-8937-fd8ead732b6e" />
   
